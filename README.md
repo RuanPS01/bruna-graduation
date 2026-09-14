@@ -1,4 +1,4 @@
-# Convite de Formatura | Bruna Eduarda dos Santos Martinez
+# Convite de Formatura | Bruna Eduarda dos Santos Martinez Souza
 
 Site estático, sem build. Basta servir a pasta como está.
 
@@ -13,7 +13,7 @@ Site estático, sem build. Basta servir a pasta como está.
 ## Antes de divulgar o link
 
 Abra o `index.html` e troque todas as ocorrências de
-`https://convite-bruna.onrender.com` pela URL real do site.
+`https://convite-bruna-psi.onrender.com` pela URL real do site.
 São as tags `og:url`, `og:image`, `twitter:image` e `canonical`.
 O preview do WhatsApp só funciona com URL absoluta e em HTTPS.
 
